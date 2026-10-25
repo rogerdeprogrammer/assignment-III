@@ -11,5 +11,9 @@ there is primary key found column 1 "called name " where the foreign key that ac
 called" patient_age " couse it is the reference of patient registry and connect all other tables
 here is the visual of our database
 
+https://github.com/rogerdeprogrammer/assignment-III/blob/0b01c94d15d93130b7310dccd9ca5465cd603860/hospital%20ERD.png
+
+and i think it will be better if  i show even the latest result of the tables how iy looks 
+in database management system 
 
 
